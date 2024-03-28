@@ -1,7 +1,5 @@
 ## Quiz App
 
-![Preview](assets/Preview.png)
-
 ### Build docker image
 ```bash
 docker build -t quiz-app:0.0.1 .
