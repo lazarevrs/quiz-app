@@ -1,6 +1,6 @@
 ## Quiz App
 
-![Preview](assets/Preview.png)
+![Preview](assets/Preview.jpg)
 
 ### Build docker image
 ```bash
